@@ -30,7 +30,7 @@ This repository contains the backend code for a course selling website. The back
 
 1. Clone the repository
    
-    git clone https://github.com/yourusername/course-selling-backend.git
+    git clone https://github.com/yourusername/Backend_of_course_sellling_website.git
     ```
 2. Navigate to the project directory
   
