@@ -29,22 +29,22 @@ This repository contains the backend code for a course selling website. The back
 ## Installation
 
 1. Clone the repository
-   
+    ```sh
     git clone https://github.com/yourusername/Backend_of_course_sellling_website.git
     ```
 2. Navigate to the project directory
-  
+    ```sh
     cd course-selling-backend
     ```
 3. Install dependencies
-   
+    ```sh
     npm install
     ```
 
 ## Configuration
 
 1. Create a `.env` file in the root of the project and add the following variables:
-   
+    ```
     SECRET=your_jwt_secret
     MONGODB_URI=your_mongodb_connection_string
     ```
@@ -52,7 +52,7 @@ This repository contains the backend code for a course selling website. The back
 ## Running the Application
 
 1. Start the server
-    
+    ```sh
     npm start
     ```
 2. The server will be running on `http://localhost:3000`.
